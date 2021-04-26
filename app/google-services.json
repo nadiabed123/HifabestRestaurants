@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "150835552742",
+    "firebase_url": "https://myfirebase-b7990.firebaseio.com",
+    "project_id": "myfirebase-b7990",
+    "storage_bucket": "myfirebase-b7990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150835552742:android:4a554ebc455ac6ee253627",
+        "android_client_info": {
+          "package_name": "com.example.haifasbestrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150835552742-f0fk8aa6l4l9q3ov57oqb2r0r1gfbpv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haifasbestrestaurants",
+            "certificate_hash": "27deb38c3eb30bd4bc2eada3ed8f078c14175daa"
+          }
+        },
+        {
+          "client_id": "150835552742-kfv4c4go425rm02in227cinaqd16jdrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CFQL6tpmf-4XOmTvpKK2DEJ3rvVYV6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150835552742-kfv4c4go425rm02in227cinaqd16jdrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150835552742:android:711bc64434800673253627",
+        "android_client_info": {
+          "package_name": "com.example.hifabestrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150835552742-kfv4c4go425rm02in227cinaqd16jdrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CFQL6tpmf-4XOmTvpKK2DEJ3rvVYV6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150835552742-kfv4c4go425rm02in227cinaqd16jdrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
