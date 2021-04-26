@@ -30,7 +30,7 @@ public class ResturantTypeList extends AppCompatActivity {
         arrayList.add("sandwich restaurants");
         arrayList.add("meat restaurants");
         arrayList.add("kosher restaurants");
-        arrayList.add("vegan restaurants");
+        arrayList.add("vegan restaurants 1");
         arrayList.add("hidden gems");
         arrayList.add("pizza restaurants");
 
